@@ -1,6 +1,6 @@
 # bluekeep.py
 # CVE-2019-0708 "Bluekeep" Vulnerability Scanner.
-# CREDITS TO THE CREATOR: https://github.com/turingcompl33t/bluekeep/
+# CREDITS TO: https://github.com/turingcompl33t/bluekeep/
 #
 # Usage: Scanner.py <Host> [-v]
 #
